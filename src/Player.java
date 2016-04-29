@@ -1,7 +1,7 @@
 /*Conniption Game
  * Artificial Intelligence - Group Project
  * This class file is used to manage different players in the Game.
- * Harsh Patel - Amir Khadivi - Kifah Issa
+ * Harsh Patel
  */
 
 import java.util.Arrays;
