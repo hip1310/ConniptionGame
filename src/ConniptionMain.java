@@ -1,6 +1,6 @@
 /*Conniption Game
  * Artificial Intelligence - Group Project
- * Harsh Patel - Amir Khadivi - Kifah Issa
+ * Harsh Patel
  */
 import java.util.ArrayList;
 import java.util.Scanner;
